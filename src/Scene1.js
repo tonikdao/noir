@@ -13,7 +13,7 @@ import { mirrorsData } from './data'
 
 const TEXT_PROPS = {
   fontSize: 2.5,
-  font: process.env.PUBLIC_URL + '/fonts/numero7.woff'
+  font: 'https://tonikdao.github.io/noir/fonts/numero7.woff'
 }
 console.log (TEXT_PROPS.font);
 
