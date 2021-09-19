@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/noir/static/css/main.7fca493c.chunk.css",
-    "main.js": "/noir/static/js/main.a35fc582.chunk.js",
-    "main.js.map": "/noir/static/js/main.a35fc582.chunk.js.map",
-    "runtime-main.js": "/noir/static/js/runtime-main.c938bbfc.js",
-    "runtime-main.js.map": "/noir/static/js/runtime-main.c938bbfc.js.map",
-    "static/js/2.751ecfab.chunk.js": "/noir/static/js/2.751ecfab.chunk.js",
-    "static/js/2.751ecfab.chunk.js.map": "/noir/static/js/2.751ecfab.chunk.js.map",
-    "static/js/3.da948d91.chunk.js": "/noir/static/js/3.da948d91.chunk.js",
-    "static/js/3.da948d91.chunk.js.map": "/noir/static/js/3.da948d91.chunk.js.map",
+    "main.css": "/noir/static/css/main.09d4a6b5.chunk.css",
+    "main.js": "/noir/static/js/main.8982b686.chunk.js",
+    "main.js.map": "/noir/static/js/main.8982b686.chunk.js.map",
+    "runtime-main.js": "/noir/static/js/runtime-main.8b39b773.js",
+    "runtime-main.js.map": "/noir/static/js/runtime-main.8b39b773.js.map",
+    "static/js/2.5b66922c.chunk.js": "/noir/static/js/2.5b66922c.chunk.js",
+    "static/js/2.5b66922c.chunk.js.map": "/noir/static/js/2.5b66922c.chunk.js.map",
+    "static/js/3.dbf68606.chunk.js": "/noir/static/js/3.dbf68606.chunk.js",
+    "static/js/3.dbf68606.chunk.js.map": "/noir/static/js/3.dbf68606.chunk.js.map",
     "index.html": "/noir/index.html",
-    "precache-manifest.0611d48b3ed3eaf87d71b1c0560d7011.js": "/noir/precache-manifest.0611d48b3ed3eaf87d71b1c0560d7011.js",
+    "precache-manifest.fb24341fa91130deb585b7854ba3a5e1.js": "/noir/precache-manifest.fb24341fa91130deb585b7854ba3a5e1.js",
     "service-worker.js": "/noir/service-worker.js",
-    "static/css/main.7fca493c.chunk.css.map": "/noir/static/css/main.7fca493c.chunk.css.map",
-    "static/js/2.751ecfab.chunk.js.LICENSE.txt": "/noir/static/js/2.751ecfab.chunk.js.LICENSE.txt"
+    "static/css/main.09d4a6b5.chunk.css.map": "/noir/static/css/main.09d4a6b5.chunk.css.map",
+    "static/js/2.5b66922c.chunk.js.LICENSE.txt": "/noir/static/js/2.5b66922c.chunk.js.LICENSE.txt",
+    "static/media/base.css": "/noir/static/media/NeueHaasDisplayLight.cedb0be9.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.c938bbfc.js",
-    "static/js/2.751ecfab.chunk.js",
-    "static/css/main.7fca493c.chunk.css",
-    "static/js/main.a35fc582.chunk.js"
+    "static/js/runtime-main.8b39b773.js",
+    "static/js/2.5b66922c.chunk.js",
+    "static/css/main.09d4a6b5.chunk.css",
+    "static/js/main.8982b686.chunk.js"
   ]
 }
