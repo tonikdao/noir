@@ -1,3 +1,10 @@
+@font-face {
+  font-family: 'NeueHaasGroteskDisplay';
+  src: url(./fonts/NeueHaasDisplayLight.ttf) format('truetype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+
 *,
 *::after,
 *::before {
@@ -92,7 +99,7 @@ a:focus {
 }
 
 .frame__links {
-  display: inline;
+  display: flex;
 }
 
 .frame__links a:not(:last-child),
@@ -102,6 +109,8 @@ a:focus {
 
 .frame__demos {
   margin: 1rem 0;
+  transform: rotate(-30deg);
+  font-family: NeueHaasGroteskDisplay;
 }
 
 .frame__demo--current,
@@ -138,7 +147,7 @@ a:focus {
     grid-template-areas:
       'title links'
       '... ...'
-      '... demos';
+      'bureau demos';
   }
   .frame__title-wrap {
     grid-area: title;
@@ -157,6 +166,19 @@ a:focus {
     margin: 0;
     grid-area: demos;
     justify-self: end;
+    color: #888;
+  }
+  .frame__demos a,
+  .frame__demos a:visited {
+    color: #888;
+  }
+
+  .frame__bureau {
+    margin: 0;
+    grid-area: bureau;
+    justify-self: start;
+    transform: rotate(-30deg);
+    color: #888;
   }
   .frame__links {
     grid-area: links;
