@@ -97,10 +97,11 @@ a:focus {
   font-size: 1rem;
   margin: 0 0 1rem;
   font-weight: normal;
+  display: inline;
 }
 
 .frame__links {
-  display: flex;
+  display: inline;
 }
 
 .frame__links a:not(:last-child),
@@ -110,7 +111,16 @@ a:focus {
 
 .frame__demos {
   margin: 1rem 0;
-  transform: rotate(-30deg);
+}
+
+.frame__demos a,
+.frame__demos a:visited {
+  color: #888;
+}
+
+.frame__bureau {
+  margin: 1rem 0;
+  color: #888;
 }
 
 .frame__demo--current,
@@ -140,7 +150,7 @@ a:focus {
     width: 100%;
     max-width: none;
     height: 100vh;
-    padding: 2rem 2rem 3rem 2rem;
+    padding: 2rem;
     pointer-events: none;
     grid-template-columns: 75% 25%;
     grid-template-rows: auto auto auto;
@@ -167,10 +177,7 @@ a:focus {
     grid-area: demos;
     justify-self: end;
     color: #888;
-  }
-  .frame__demos a,
-  .frame__demos a:visited {
-    color: #888;
+    transform: rotate(-30deg);
   }
 
   .frame__bureau {
@@ -178,9 +185,9 @@ a:focus {
     grid-area: bureau;
     justify-self: start;
     transform: rotate(-30deg);
-    color: #888;
   }
   .frame__links {
+    display: flex;
     grid-area: links;
     padding: 0;
     justify-self: end;
