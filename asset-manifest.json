@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/noir/static/css/main.e255e826.chunk.css",
+    "main.css": "/noir/static/css/main.460c83e0.chunk.css",
     "main.js": "/noir/static/js/main.f269cb3a.chunk.js",
     "main.js.map": "/noir/static/js/main.f269cb3a.chunk.js.map",
     "runtime-main.js": "/noir/static/js/runtime-main.8b39b773.js",
@@ -10,16 +10,16 @@
     "static/js/3.dbf68606.chunk.js": "/noir/static/js/3.dbf68606.chunk.js",
     "static/js/3.dbf68606.chunk.js.map": "/noir/static/js/3.dbf68606.chunk.js.map",
     "index.html": "/noir/index.html",
-    "precache-manifest.1ac9bd1f8d1e6cfb0313ac39612e32b2.js": "/noir/precache-manifest.1ac9bd1f8d1e6cfb0313ac39612e32b2.js",
+    "precache-manifest.f2e72ef7c5423de5eb73d63aaf0e0bd9.js": "/noir/precache-manifest.f2e72ef7c5423de5eb73d63aaf0e0bd9.js",
     "service-worker.js": "/noir/service-worker.js",
-    "static/css/main.e255e826.chunk.css.map": "/noir/static/css/main.e255e826.chunk.css.map",
+    "static/css/main.460c83e0.chunk.css.map": "/noir/static/css/main.460c83e0.chunk.css.map",
     "static/js/2.5b66922c.chunk.js.LICENSE.txt": "/noir/static/js/2.5b66922c.chunk.js.LICENSE.txt",
     "static/media/base.css": "/noir/static/media/NeueHaasDisplayLight.cedb0be9.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.8b39b773.js",
     "static/js/2.5b66922c.chunk.js",
-    "static/css/main.e255e826.chunk.css",
+    "static/css/main.460c83e0.chunk.css",
     "static/js/main.f269cb3a.chunk.js"
   ]
 }
