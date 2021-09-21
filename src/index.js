@@ -40,21 +40,21 @@ function Body() {
       <main>
         <div className="frame">
           <div className="frame__title-wrap">
-            <p className="frame__title">PARIS&nbsp;</p>
+            <p className="frame__title">PARIS&nbsp;&nbsp;</p>
             <Clock
               format={'h:mm a'}
               ticking={true}
               timezone={'CET'}
-              style={{ FontFace: 'NeueHaasGroteskDisplay', color: '#888', fontSize: '17px' }}
+              style={{ FontFace: 'NeueHaasGroteskDisplay' }}
             />
           </div>
           <div className="frame__links">
-            <p className="frame__title">SYDNEY&nbsp;</p>
+            <p className="frame__title">SYDNEY&nbsp;&nbsp;</p>
             <Clock
               format={'h:mm a'}
               ticking={true}
               timezone={'Australia/Sydney'}
-              style={{ FontFace: 'NeueHaasGroteskDisplay', color: '#888', fontSize: '17px' }}
+              style={{ FontFace: 'NeueHaasGroteskDisplay' }}
             />
           </div>
           <div className="frame__bureau">DIAGONAL THINKERS</div>
